@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RadioStation</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="action_on">ON</string>
+    <string name="action_off">OFF</string>
+</resources>
